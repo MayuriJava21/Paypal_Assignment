@@ -1,0 +1,7 @@
+spring:
+  h2.console.enabled: true
+  application.name: employee-portal
+  datasource:    url: jdbc:h2:file:~/data/assignment
+    driverClasssName: org.h2.Driver
+    username: sa
+    password: security

@@ -1,0 +1,10 @@
+com\paypal\bfs\test\employeeserv\EmployeeServApplication.class
+com\paypal\bfs\test\employeeserv\model\Employee.class
+com\paypal\bfs\test\employeeserv\model\Address.class
+com\paypal\bfs\test\employeeserv\validations\ZipCode.class
+com\paypal\bfs\test\employeeserv\model\EmployeeServiceExceptionResponse.class
+com\paypal\bfs\test\employeeserv\model\EmployeeServiceResponse.class
+com\paypal\bfs\test\employeeserv\repository\EmployeeRepository.class
+com\paypal\bfs\test\employeeserv\validations\EmployeeServiceValidation.class
+com\paypal\bfs\test\employeeserv\validations\ZipCodeValidator.class
+com\paypal\bfs\test\employeeserv\impl\EmployeeResourceImpl.class
